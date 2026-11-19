@@ -26,3 +26,4 @@ def display_students():
 add_student()
 mark_attendance()
 display_students()
+print("Attendance feature updated successfully!")
